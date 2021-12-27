@@ -1,0 +1,13 @@
+ai_q_web
+tester.py
+.google-cookie
+backup
+/tokenizer
+/model
+term_frequency2.py
+__pycache__
+test.py
+stopwords.txt
+.env
+bert_small 
+bert_small_token
